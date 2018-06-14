@@ -16,7 +16,7 @@ require "spec_helper"
      end
    end
    describe "#lowest_student_gpa" do
-     it 'finds the lowest gpa' do
+     xit 'finds the lowest gpa' do
      end
    end
    describe "#average_student_gpa" do
