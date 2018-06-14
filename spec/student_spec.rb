@@ -11,7 +11,7 @@ require "spec_helper"
    end
 
    describe "#highest_student_gpa" do
-     it 'finds the highest gpa' do
+     xit 'finds the highest gpa' do
        expect(true).to be(true)
      end
    end
